@@ -35,7 +35,8 @@ http://localhost:8080
 This project is still evolving and was built mostly as a passion project / experiment.
 
 If you try it, feedback is always appreciated :)
-Please don't edit the saved conversations just to make the AI say horrible things 😭
+
+P.S: Please don't edit the saved conversations just to make the AI say horrible things 😭
 I am NOT taking responsibility for that.
 
 ENJOY IT!
