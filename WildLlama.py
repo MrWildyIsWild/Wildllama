@@ -1,6 +1,6 @@
 """
-WildLlama v3 — A savage Ollama UI
-Run:  python3 WildLlamaV3.py
+WildLlama v2 - A savage Ollama UI
+Run:  python3 WildLlamaV2.py
 Then: open http://localhost:8080
 
 Optional extras (graceful degradation if missing):
