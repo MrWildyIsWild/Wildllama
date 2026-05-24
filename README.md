@@ -21,14 +21,14 @@ Wildllama runs locally with Ollama and focuses on keeping things simple, smooth,
 
 ## Getting started
 
-Make sure Ollama is running first.
-ollama serve
+Make sure Ollama is running first:
+if you just type ollama in your terminal, you should see ollama stuff ;-;
 
 Then start Wildllama:
-python3 wildllama.py
+open the terminal where you downloaded the file and run python3 wildllama.py
 
 Open:
-http://localhost:8080
+http://localhost:8080 <-- very hard to right click the link u get in the terminal and open it ._.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
